@@ -27,13 +27,14 @@ Below is an image display of how both math and reading scores by grade were alte
 ![pre math scores by grade](https://user-images.githubusercontent.com/89808050/152059352-c441f367-520c-430d-b549-b1e3f9b82368.png)
 
 #### Math Scores by Grade without Thomas High School Ninth Graders
-![math scores by grade](https://user-images.githubusercontent.com/89808050/152058802-99c65a84-ea7b-4228-b637-5ee419a62e58.png)
+![post scores by grade math](https://user-images.githubusercontent.com/89808050/152061533-d1ccfdaf-3613-43e2-941a-27f31c017b21.png)
 
 #### Reading Scores by Grade with Thomas High School Ninth Graders
 ![Screen Shot 2022-02-01 at 3 05 24 PM](https://user-images.githubusercontent.com/89808050/152059399-12b92441-0cb4-4843-bc5a-ab9ce6a4b819.png)
+![post scores by grade math](https://user-images.githubusercontent.com/89808050/152061522-13e5434a-c97c-46d5-b742-cd8a964c80be.png)
 
-#### Reading Scores![reading scores by grade](https://user-images.githubusercontent.com/89808050/152058812-e3a8920c-9a15-47f9-afe3-64ca32a94595.png)
- by Grade without Thomas High School Ninth Graders
+#### Reading Scores by Grade without Thomas High School Ninth Graders
+![reading scores by grade](https://user-images.githubusercontent.com/89808050/152058812-e3a8920c-9a15-47f9-afe3-64ca32a94595.png)
 
 ### Scores by School Spending
 Thomas High School is a relatively large school that falls in the medium size bin for school size and the second smallest (third largest of four) spending per student bin.
