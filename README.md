@@ -31,7 +31,6 @@ Below is an image display of how both math and reading scores by grade were alte
 
 #### Reading Scores by Grade with Thomas High School Ninth Graders
 ![Screen Shot 2022-02-01 at 3 05 24 PM](https://user-images.githubusercontent.com/89808050/152059399-12b92441-0cb4-4843-bc5a-ab9ce6a4b819.png)
-![post scores by grade math](https://user-images.githubusercontent.com/89808050/152061522-13e5434a-c97c-46d5-b742-cd8a964c80be.png)
 
 #### Reading Scores by Grade without Thomas High School Ninth Graders
 ![reading scores by grade](https://user-images.githubusercontent.com/89808050/152058812-e3a8920c-9a15-47f9-afe3-64ca32a94595.png)
