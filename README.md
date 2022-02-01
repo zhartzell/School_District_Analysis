@@ -65,3 +65,5 @@ By removing the data acquired from the ninth graders at Thomas High Schoo, Thoma
 
 
 ## Summary
+
+Taken together, the occurence of such an act of academic dishonesty is something that was very important for the analysis team to know prior to presenting the results to the district board. Although not all comparisons were dramatically affected, some areas were drastically impacted by the removal of the ninth grade cohort from Thomas High School. In the graphics displayed above, our team hopes to communicate the desired information requested by the district school board and super intendent. 
